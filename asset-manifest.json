@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/onelauraashley/xpenseit.git/static/css/main.efac17c1.chunk.css",
-    "main.js": "/onelauraashley/xpenseit.git/static/js/main.d8fa7ea5.chunk.js",
-    "main.js.map": "/onelauraashley/xpenseit.git/static/js/main.d8fa7ea5.chunk.js.map",
-    "runtime-main.js": "/onelauraashley/xpenseit.git/static/js/runtime-main.22a308cf.js",
-    "runtime-main.js.map": "/onelauraashley/xpenseit.git/static/js/runtime-main.22a308cf.js.map",
-    "static/css/2.199fe91b.chunk.css": "/onelauraashley/xpenseit.git/static/css/2.199fe91b.chunk.css",
-    "static/js/2.e7735a24.chunk.js": "/onelauraashley/xpenseit.git/static/js/2.e7735a24.chunk.js",
-    "static/js/2.e7735a24.chunk.js.map": "/onelauraashley/xpenseit.git/static/js/2.e7735a24.chunk.js.map",
-    "index.html": "/onelauraashley/xpenseit.git/index.html",
-    "precache-manifest.caacc572f9c2e88b4453c9ca8717471f.js": "/onelauraashley/xpenseit.git/precache-manifest.caacc572f9c2e88b4453c9ca8717471f.js",
-    "service-worker.js": "/onelauraashley/xpenseit.git/service-worker.js",
-    "static/css/2.199fe91b.chunk.css.map": "/onelauraashley/xpenseit.git/static/css/2.199fe91b.chunk.css.map",
-    "static/css/main.efac17c1.chunk.css.map": "/onelauraashley/xpenseit.git/static/css/main.efac17c1.chunk.css.map",
-    "static/js/2.e7735a24.chunk.js.LICENSE": "/onelauraashley/xpenseit.git/static/js/2.e7735a24.chunk.js.LICENSE"
+    "main.css": "/xpenseit/static/css/main.efac17c1.chunk.css",
+    "main.js": "/xpenseit/static/js/main.f45bf7f9.chunk.js",
+    "main.js.map": "/xpenseit/static/js/main.f45bf7f9.chunk.js.map",
+    "runtime-main.js": "/xpenseit/static/js/runtime-main.9b89ee0c.js",
+    "runtime-main.js.map": "/xpenseit/static/js/runtime-main.9b89ee0c.js.map",
+    "static/css/2.199fe91b.chunk.css": "/xpenseit/static/css/2.199fe91b.chunk.css",
+    "static/js/2.e7735a24.chunk.js": "/xpenseit/static/js/2.e7735a24.chunk.js",
+    "static/js/2.e7735a24.chunk.js.map": "/xpenseit/static/js/2.e7735a24.chunk.js.map",
+    "index.html": "/xpenseit/index.html",
+    "precache-manifest.9e3d3d0e55a72a892bfd8b1561bc4a62.js": "/xpenseit/precache-manifest.9e3d3d0e55a72a892bfd8b1561bc4a62.js",
+    "service-worker.js": "/xpenseit/service-worker.js",
+    "static/css/2.199fe91b.chunk.css.map": "/xpenseit/static/css/2.199fe91b.chunk.css.map",
+    "static/css/main.efac17c1.chunk.css.map": "/xpenseit/static/css/main.efac17c1.chunk.css.map",
+    "static/js/2.e7735a24.chunk.js.LICENSE": "/xpenseit/static/js/2.e7735a24.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.22a308cf.js",
+    "static/js/runtime-main.9b89ee0c.js",
     "static/css/2.199fe91b.chunk.css",
     "static/js/2.e7735a24.chunk.js",
     "static/css/main.efac17c1.chunk.css",
-    "static/js/main.d8fa7ea5.chunk.js"
+    "static/js/main.f45bf7f9.chunk.js"
   ]
 }
